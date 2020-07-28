@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472246874077",
+    "firebase_url": "https://buytm-a35a4.firebaseio.com",
+    "project_id": "buytm-a35a4",
+    "storage_bucket": "buytm-a35a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472246874077:android:0ba6f7c40188397fed5034",
+        "android_client_info": {
+          "package_name": "com.katibu.buytm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472246874077-suoanpjakfv4s0ldc7laag3vvb9m57kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.katibu.buytm",
+            "certificate_hash": "90af69531a8349c50f6e6e254b6c9230d632880e"
+          }
+        },
+        {
+          "client_id": "472246874077-kjv9h4s3unfi4bgtfbdvks19vluc2rri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5f77-aUMl-P85LuOs74oiIfAg17tol4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472246874077-kjv9h4s3unfi4bgtfbdvks19vluc2rri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="This product will help you live better, save more and shop conveniently. Buy it today and  it will get shipped to you in three working days time. Hope this app will be the future of ecommerce in Africa.
+        \n\nYa Allah ka taimaka kasa wannan app ya zama success. ka bani confidence to follow the dream. ka sa abinda na sani ya zama mai amfani akan abinda ban sani ba." />
+</FrameLayout>
